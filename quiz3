@@ -1,169 +1,6 @@
-Coursera
-Explore
-What do you want to learn?
 
-0
-Skip to Main Content
-
-Sheetal
-How Google does Machine Learning
-Week 1
-Module 3 Quiz
-Prev
-Next
-
-Introduction
-
-Why Google?
-
-Module 1 Quiz
-
-What it means to be AI first
-
-Two stages of ML
-
-ML in Google products
-
-Demo: ML in Google products
-
-Replacing heuristics
-
-It's all about data
-
-Framing an ML problem
-Video: LectureLab Intro - Framing an ML Problem
-. Duration:1 min
-Discussion Prompt: Framing an ML problem
-. Duration:15 min
-Video: LectureLab debrief
-. Duration:4 min
-
-ML in applications
-Video: LectureDemo: ML in applications
-. Duration:2 min
-
-Pre-trained models
-Video: LecturePre-trained models
-. Duration:3 min
-
-The ML marketplace is evolving
-Video: LectureThe ML marketplace is evolving
-. Duration:2 min
-
-A data strategy
-Video: LectureA data strategy
-. Duration:5 min
-
-Training and serving skew
-Video: LectureTraining and serving skew
-. Duration:5 min
-
-An ML strategy
-Video: LectureAn ML strategy
-. Duration:1 min
-
-Transform your business
-Video: LectureTransform your business
-. Duration:2 min
-Video: LectureLab Intro - ML use case
-. Duration:26 sec
-Discussion Prompt: Non-traditional ML use case
-. Duration:15 min
-
-Module 2 Quiz
-Quiz: Module 2 Quiz
-3 questions
-
-Introduction
-Video: LectureIntroduction
-. Duration:40 sec
-
-ML Surprise
-Video: LectureML Surprise
-. Duration:4 min
-
-The secret sauce
-
-ML and Business Processes
-Video: LectureML and Business Processes
-. Duration:6 min
-
-The Path to ML
-Video: LectureThe Path to ML
-. Duration:10 min
-
-End of phases deep dive
-Video: LectureEnd of phases deep dive
-. Duration:4 min
-
-Module 3 Quiz
-
-Introduction
-
-Machine Learning and Human Bias
-
-Evaluating Metrics for Inclusion
-
-Statistical Measurements and acceptable tradeoffs
-
-Equality of Opportunity
-
-Simulating Decisions
-
-Finding Errors in your dataset using Facets
-
-Module 4 Quiz
-
-Module Introduction
-
-Cloud Datalab
-
-Computation and storage
-
-Lab: Rent-a-VM
-
-Cloud Shell
-
-Third wave of cloud
-
-AI Platform Notebooks and BigQuery
-
-Machine Learning with Sara Robinson
-
-Pre-trained ML APIs
-
-Lab: Machine Learning APIs
-
-Module 5 Quiz
-
-Summary: ML Strategy
-QUIZ • 30 MIN
-Module 3 Quiz
-Submit your assignment
-DUEAug 3, 12:29 PM IST
-ATTEMPTS3 every 8 hours
-Receive grade
-TO PASS66% or higher
-Grade
-100%
-We keep your highest score
-
-
-
-Module 3 Quiz
-Graded Quiz • 30 min
-Due Aug 3, 12:29 PM IST
-
-Congratulations! You passed!
-TO PASS 66% or higher
-GRADE
-100%
-Module 3 Quiz
-LATEST SUBMISSION GRADE
-100%
 1.Question 1
 In each of the given situations the task is at one of the five phases of the “Path to ML”.
-
 Identify the phase of each of tasks by writing
 
 I for individual contributor
@@ -186,7 +23,7 @@ ____ City parking meters that change the hourly rate depending on anticipated de
 
 ____ An automated toll readers that read car license plates and charge the toll fee to the registered car owner
 
-1 / 1 point
+ANSWER:
 
 _B__ A manufacturing plant has a number of robotic arms. It uses the data collected on each arm to help determine its maintenance schedule.
 
@@ -199,31 +36,9 @@ _M__ City parking meters that change the hourly rate depending on the time of da
 _Z__ An automated toll readers that read car license plates and charge the toll fee to the registered car owner
 
 
-_D__ A manufacturing plant has a number of robotic arms. It uses the data collected on each arm to help determine its maintenance schedule.
 
-_I__ A team of customer service reps for an online catalog
-
-_M__ A librarian working the front desk at a city library
-
-_Z__ City parking meters that change the hourly rate depending on the time of day
-
-_B__ An automated toll readers that read car license plates and charge the toll fee to the registered car owner
-
-
-_M__ A manufacturing plant has a number of robotic arms. It uses the data collected on each arm to help determine its maintenance schedule.
-
-_Z__ A team of customer service reps for an online catalog
-
-_I__ A librarian working the front desk at a city library
-
-_B__ City parking meters that change the hourly rate depending on the time of day
-
-_D__ An automated toll readers that read car license plates and charge the toll fee to the registered car owner
-
-Correct
 2.Question 2
 In each of the given situations a company is in one of the five phases of the “Path to ML”.
-
 Identify the phase of each of tasks by writing
 
 I for individual contributor
@@ -246,29 +61,7 @@ ___ A computer executes the process but a person supplies the parameters via a g
 
 ___ A task is completed by a group of people
 
-1 / 1 point
-
-_B__ All tasks (execution of process, choosing operational parameters, and feedback of parameters) are fully automated
-
-_M__ A person performs the task and instructions to complete the task are passed from person to person
-
-_D__ A computer executes the process and a software engineer ensures the parameters are part of the feedback loop. Parameters are chosen through analysis of historical patterns
-
-_Z__ A computer executes the process but a person supplies the parameters via a graphical user interface
-
-_I__ A task is completed by a group of people
-
-
-_I__ All tasks (execution of process, choosing operational parameters, and feedback of parameters) are fully automated
-
-_B__ A person performs the task and instructions to complete the task are passed from person to person
-
-_M__ A computer executes the process and a software engineer ensures the parameters are part of the feedback loop. Parameters are chosen through analysis of historical patterns
-
-_Z__ A computer executes the process but a person supplies the parameters via a graphical user interface
-
-_D__ A task is completed by a group of people
-
+ANSWER:
 
 _M__ All tasks (execution of process, choosing operational parameters, and feedback of parameters) are fully automated
 
@@ -280,26 +73,11 @@ _Z__ A computer executes the process but a person supplies the parameters via a 
 
 _D__ A task is completed by a group of people
 
-Correct
+
 3.Question 3
 You are a consultant for a company that is about to begin development on an ML model that they hope to deploy in the near future. They would like to have the model ready in one year. The company wants you to tell them where they should concentrate their efforts.
-
 Which one of these tasks often requires the most effort.
-
-1 / 1 point
-
-Defining key goals
+ANSWER: Collecting data
 
 
-Collecting data
 
-
-Building infrastructure
-
-
-Optimizing the algorithm
-
-
-Integration of the model
-
-Correct
