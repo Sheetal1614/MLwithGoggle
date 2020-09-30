@@ -1,6 +1,6 @@
-# ML_with_Google
+# ML_with_Google #
 
-This repo contains the information related to how Goggle uses Machine Learning
+This repositary contains the information related to how Goggle uses Machine Learning.
 
 ##The aim of the specialization,is to teach how to build production machine learning models.
 
