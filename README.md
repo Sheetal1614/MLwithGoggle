@@ -1,4 +1,4 @@
-# ML_with_Google #
+# Machine Learning_with_Google #
 
 This repositary contains the information related to how Goggle uses Machine Learning.
 
